@@ -1,0 +1,53 @@
+[33mcommit 5b1e166f995319a0c7a55ab15896ca0013d948f5[m
+Author: Jorge Hernández <diego.hernandez@i3television.es>
+Date:   Thu Mar 23 19:14:36 2017 +0100
+
+    fixed typo
+
+[33mcommit 79bf6d9273a0ddcd41250dd7cea88f92eefecd7b[m
+Author: Jorge Hernández <diego.hernandez@i3television.es>
+Date:   Thu Mar 23 17:33:46 2017 +0100
+
+    step 6 - added axios - ajax call
+
+[33mcommit 573b55dd311f76d4a6cd85f84e812f3d82fc4aa3[m
+Author: Jorge Hernández <diego.hernandez@i3television.es>
+Date:   Thu Mar 23 16:21:10 2017 +0100
+
+    step 5 - added redux-promise
+
+[33mcommit 4b69890520cfc452ca5175d853a385ac6d85ab4d[m
+Author: Jorge Hernández <diego.hernandez@i3television.es>
+Date:   Wed Mar 22 18:48:18 2017 +0100
+
+    step 4 - API key added
+
+[33mcommit aea56e545fcbe63bf1c994b10623879093846bcf[m
+Author: Jorge Hernández <diego.hernandez@i3television.es>
+Date:   Wed Mar 22 17:10:23 2017 +0100
+
+    step 3 - SearchBar refinement (avoid submit)
+
+[33mcommit 225a87c4abeb781257a2b5a65fe8ae729bef0cf2[m
+Author: Jorge Hernández <diego.hernandez@i3television.es>
+Date:   Wed Mar 22 16:43:46 2017 +0100
+
+    set 2 - SearchBar refinement
+
+[33mcommit b3c6c3d9d4376917235d25e3885fe2c4709baf65[m
+Author: Jorge Hernández <diego.hernandez@i3television.es>
+Date:   Tue Mar 21 18:14:07 2017 +0100
+
+    Step 1 - SearchBar
+
+[33mcommit 0d03f77cba11aba812b1053a39525239e7ed2143[m
+Author: Jorge Hernández <diego.hernandez@i3television.es>
+Date:   Tue Mar 21 11:37:37 2017 +0100
+
+    boilerplated
+
+[33mcommit 033139362411d72bf715904fa37ccc01b44f5d32[m
+Author: Jorge Hernández <diego.hernandez@i3television.es>
+Date:   Tue Mar 21 11:34:33 2017 +0100
+
+    first commit
