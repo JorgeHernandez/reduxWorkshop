@@ -7,7 +7,7 @@ export class WeatherList extends Component {
 		var temps = cityData.list.map(weather=>weather.main.temp);
 		return(
 			<tr key={cityData.city.name}>
-				<td>{cityData.city.name}zzzzzzz</td>
+				<td>{cityData.city.name}</td>
 				<td>
 					<Sparklines height={120} width={180} data={temps}>
 						<SparklinesLine color="red" />
