@@ -5,11 +5,19 @@ import Chart from '../components/chart';
 export class WeatherList extends Component {
 	renderWeather(cityData){
 		var temps = cityData.list.map(weather=>weather.main.temp);
+		var pressures = cityData.list.map(weather=>weather.main.temp);
+		var humidities = cityData.list.map(weather=>weather.main.humidity);
 		return(
 			<tr key={cityData.city.name}>
 				<td>{cityData.city.name}</td>
 				<td>
 					<Chart data={temps} color="red" />
+				</td>
+				<td>
+					<Chart data={pressures} color="green" />
+				</td>
+				<td>
+					<Chart data={humidities} color="blue" />
 				</td>
 			</tr>
 		);
